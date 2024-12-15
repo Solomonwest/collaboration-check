@@ -17,5 +17,5 @@ igbo_dictionary = {
     'efere': "plate",
     'chineke': "Jesus",
     'biko': "please",
-    'ewu' : "goat"
+    'ewu' : "goats"
 }
